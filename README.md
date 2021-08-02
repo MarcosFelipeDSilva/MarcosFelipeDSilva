@@ -4,7 +4,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosFelipeDSilva&theme=algolia&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFelipeDSilva&theme=algolia&show_icons=true&layout=compact"/>
 </div>
-<div>
+<div></br></br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" widtf="80" height="80"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" widtf="80" height="80"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" widtf="80" height="80"></img>
