@@ -4,4 +4,5 @@
 
 <div style="display: inline_block"><br>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
+  <i class="devicon-angularjs-plain colored"></i>
 </div>
