@@ -1,10 +1,15 @@
-# MarcosFelipeDSilva
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Q6Hah6gG--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/8a2ifr4ornn9koxc2sah.png"></img>
+# 👋 Olá, eu sou o Marcos Felipe!
+
+## 🚀 Sobre mim
+- 💻 Desenvolvedor focado em Java/Spring e Angular
+- 📍 São Bernardo do Campo - SP
+- 🌱 Sempre aprendendo e buscando novos desafios em tecnologia
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcosFelipeDSilva&theme=algolia&show_icons=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosFelipeDSilva&theme=algolia&show_icons=true&layout=compact"/>
 </div>
-<div></br></br>
+## 🛠️ Tecnologias e Ferramentas
+<div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" widtf="80" height="80"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" widtf="80" height="80"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" alt="Spring" widtf="80" height="80"></img>
